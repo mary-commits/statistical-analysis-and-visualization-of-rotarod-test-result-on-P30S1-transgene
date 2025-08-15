@@ -1,0 +1,4 @@
+Effect,DFn,DFd,F,p,ges,Significance
+Treatment,2,408,7395.961,0,0.973,***
+Time,3,408,738.023,0,0.844,***
+Treatment × Time,6,408,114.464,0,0.627,***
